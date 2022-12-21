@@ -1,0 +1,6 @@
+process.env.BASE_URL = "http://localhost"
+process.env.PORT = "8080"
+process.env.MYSQL_ROOT_PASSWORD="rootpass"
+process.env.MYSQL_USER="username"
+process.env.MYSQL_PASSWORD="password"
+process.env.MYSQL_DATABASE="yellowcard"

@@ -1,0 +1,15 @@
+node_modules
+.idea
+.cache
+.parcel-cache
+.yarn/cache
+dist
+.env
+.envrc
+storybook-static
+.eslintcache
+.history
+.DS_Store
+_schema.graphqls
+coverage
+.vscode
